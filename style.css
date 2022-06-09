@@ -69,3 +69,21 @@ header button {
   height: 250px;
   margin-bottom: 10px;
 }
+
+/* info */
+#info {
+  display: flex;
+  justify-content: center;
+}
+
+.info-image-wrapper {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  width: 150px;
+}
+
+.info-image img {
+  width: 150px;
+  height: 100px;
+}
