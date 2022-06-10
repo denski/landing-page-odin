@@ -87,3 +87,25 @@ header button {
   width: 150px;
   height: 100px;
 }
+
+/* quote section */
+#quote {
+  background-color: #e5e7eb;
+  display: flex;
+}
+
+#quote blockquote {
+  font-size: 36px;
+  color: #1f2937;
+  font-weight: 200;
+  width: 50%;
+  margin: 0 auto;
+  padding: 20px;
+  font-style: italic;
+}
+
+#quote cite {
+  font-size: 14px;
+  font-weight: bold;
+  margin-left: 550px;
+}
